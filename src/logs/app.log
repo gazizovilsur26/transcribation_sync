@@ -1,0 +1,3 @@
+2023-11-27 21:30:13.965 | INFO     | __main__:main:14 - running the application...
+2023-11-27 21:30:13.972 | INFO     | model.pipeline.preprocessing_audio:split_audio_all:58 - spliting audio from data/audiofiles to left and right channel
+2023-11-27 21:38:02.561 | INFO     | __main__:main:26 - start combining left channel text with right channel text
